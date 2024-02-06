@@ -46,7 +46,7 @@
 
 #### To run the server :
 
- https://github.com/SalmaRepo/Expenses_Tracker_Backend
+https://github.com/BarbaraPapa/Expensify-Expenses_Tracker_Backend
 
 ---
  ![image](https://github.com/SalmaRepo/Expenses_Tracker_Frontend/assets/123093914/fbb59907-9da2-401a-994e-921d7abfd176)
