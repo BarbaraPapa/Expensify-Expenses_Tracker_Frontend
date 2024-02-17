@@ -1,6 +1,5 @@
 # Expensify - Expense Tracker App
 
-![image](https://github.com/SalmaRepo/Expenses_Tracker_Frontend/assets/123093914/5c9ae57f-dbbc-4528-b383-1efcb90e4f5f)
 
 ---
 
@@ -49,6 +48,5 @@
 https://github.com/BarbaraPapa/Expensify-Expenses_Tracker_Backend
 
 ---
- ![image](https://github.com/SalmaRepo/Expenses_Tracker_Frontend/assets/123093914/fbb59907-9da2-401a-994e-921d7abfd176)
 
  
