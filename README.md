@@ -3,7 +3,7 @@
 
 ---
 
-## A project by [Salma Sheik](https://github.com/SalmaRepo), [Thulasi Sushma](https://github.com/ThulasiSushma), [Barbara Papa](https://github.com/BarbaraPapa) and [Diego LLerena](https://github.com/LLDieg).
+## A project in collaboration with [Salma Sheik](https://github.com/SalmaRepo), [Thulasi Sushma](https://github.com/ThulasiSushma) and [Diego LLerena](https://github.com/LLDieg).
 
 
 ### The idea is to help people view and study their overall spend analysis by developing a web app to analyze all the purchases. It is often noticed that we spend more than we earn which is wrong. To address it and keep a record of all the spending and earnings, we have created Expensify wherein users can keep a log of their finances and manage them wisely.
