@@ -1,11 +1,14 @@
 # Expensify - Expense Tracker App
 
-
 ---
 
-## A project in collaboration with [Salma Sheik](https://github.com/SalmaRepo), [Thulasi Sushma](https://github.com/ThulasiSushma) and [Diego LLerena](https://github.com/LLDieg).
-
-
+### A project in collaboration with [Salma Sheik](https://github.com/SalmaRepo), [Thulasi Sushma](https://github.com/ThulasiSushma) and [Diego LLerena](https://github.com/LLDieg).
+---
+### I collaborated in the creation of this project by creating some components using React.
+### I participated in the creation of the style and blackmode.
+### Using Node.js and Express I created part of the server.
+### The entire process of creating the project was done using the Agile methodology.
+---
 ### The idea is to help people view and study their overall spend analysis by developing a web app to analyze all the purchases. It is often noticed that we spend more than we earn which is wrong. To address it and keep a record of all the spending and earnings, we have created Expensify wherein users can keep a log of their finances and manage them wisely.
 ---
 
