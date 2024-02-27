@@ -2,7 +2,7 @@
 
 ---
 
-### A project in collaboration with [Salma Sheik](https://github.com/SalmaRepo), [Thulasi Sushma](https://github.com/ThulasiSushma) and [Diego LLerena](https://github.com/LLDieg).
+### A project in collaboration with  [Barbara Papa](https://github.com/BarbaraPapa) , [Salma Sheik](https://github.com/SalmaRepo), [Thulasi Sushma](https://github.com/ThulasiSushma) and [Diego LLerena](https://github.com/LLDieg).
 ---
 ## I collaborated in the creation of this project by creating some components using React.
 ## I participated in the creation of the style and blackmode.
